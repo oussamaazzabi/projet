@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "981708602319",
+    "project_id": "semous",
+    "storage_bucket": "semous.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981708602319:android:08e67e01d9f0724d6470ba",
+        "android_client_info": {
+          "package_name": "com.example.sem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981708602319-832m47l40pqn23h0g7j8acklc3va2kpl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLjbWx5lZ53OF80xYcRXx5MuXRPMRaiFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981708602319-832m47l40pqn23h0g7j8acklc3va2kpl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
